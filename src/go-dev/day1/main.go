@@ -13,4 +13,9 @@ func main() {
 	fmt.Println("-----结构体")
 	structdemo.StructDemo()
 	structdemo.StructDemo1()
+	structdemo.Newstruct()
+	structdemo.CopyStruct()
+	structdemo.PassStruct()
+	structdemo.MethodStruct()
+	structdemo.AnonymousStruct()
 }
